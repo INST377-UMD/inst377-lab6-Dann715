@@ -1,0 +1,14 @@
+#map {
+    height: 500px;
+    width: 100%;
+}
+
+.marker-info {
+    margin-top: 10px;
+    font-family: Arial, sans-serif;
+}
+
+.marker-info p {
+    margin: 5px 0;
+}
+
